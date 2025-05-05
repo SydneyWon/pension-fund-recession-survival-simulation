@@ -7,14 +7,13 @@ This project simulates the survival of a typical Dutch pension fund over a 10-ye
 - Simulated 10-year portfolio performance using expected return and volatility inputs
 - Modeled both a "normal" market scenario and a "recession" scenario based on OECD and institutional estimates
 - Quantified underfunding risk using a defined solvency threshold (€800 million)
-- Interpreted results and explored real-world implications such as aging population and contribution dynamics
 - Emphasized the need for stress testing in pension fund management and long-term planning
 
 
 ## Key Learnings
 
-- Under normal assumptions (7% expected return, 12% volatility), the fund survives in most cases  
-- Under a recession scenario (2% return, 25% volatility), the risk of underfunding rises dramatically  
+- Under normal assumptions, the fund survives in most cases  
+- Under a recession scenario, the risk of underfunding rises dramatically  
 - This analysis demonstrates how return assumptions and volatility drastically affect long-term financial health  
 - Monte Carlo simulation is a powerful tool for assessing uncertainty in financial modeling
 
